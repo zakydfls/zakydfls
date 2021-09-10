@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakydfls
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, C++, HTML, CSS
+- 🌱 I’m currently learning Python, C++, HTML, CSS, PHP, Bootstrap
 - 📫 How to reach me? Instagram : @zakydfls
 
 <!---
