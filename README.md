@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakydfls
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, C++, HTML, CSS, PHP
+- 🌱 I’m currently learning Python, C++, HTML, CSS, PHP, Java
 - 📫 How to reach me? Instagram : @zakydfls LinkedIn : https://www.linkedin.com/in/zaky-dafalas-eka-putra-154038209/
 
 <!---
