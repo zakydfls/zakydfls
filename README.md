@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zakydfls
-- 🌱 I’m currently learning Python, C++, PHP, Java, Bash
+- 🌱 I’m currently learning Python, C++, PHP, Java, Javascript
 - 📫 How to reach me:
 - Instagram : @zakydfls 
 - LinkedIn : https://www.linkedin.com/in/zaky-dafalas-eka-putra-154038209/
